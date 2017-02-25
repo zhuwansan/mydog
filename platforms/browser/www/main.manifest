@@ -1,0 +1,10 @@
+CACHE MANIFEST
+#文件的开头必须书写CACHE MANIFEST
+#这个文件的版本号
+#version 1.1.0
+CACHE:
+main.js
+index.css
+jquery-1.11.3.min.js
+
+

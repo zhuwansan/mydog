@@ -1,0 +1,29 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.leiyier.note"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.leiyier.note"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.leiyier.note"
+        },
+        "cordova-plugin-wechat": {
+            "WECHATAPPID": "wxc2efc533a5520d10",
+            "PACKAGE_NAME": "com.leiyier.note"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.leiyier.note"
+        }
+    }
+}
